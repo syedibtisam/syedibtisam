@@ -1,6 +1,6 @@
 # Hi there👋, It's Ibtisam, started to improve my GitHub.
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=syedibtisam&show_icons=true&theme=radical" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=syedibtisam&show_icons=true&theme=radical&hide=stars,issues,contribs" />
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedibtisam&layout=compact" />
 
