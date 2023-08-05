@@ -1,4 +1,4 @@
-# Hi there👋, It's Ibtisam, started to improve my GitHub.
+# Hi there👋, It's Ibtisam, started to improve my Programming skills.
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=syedibtisam&show_icons=true&theme=radical&hide=stars,issues,contribs" />
 
