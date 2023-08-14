@@ -14,6 +14,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📄 My LinkedIn Posts
+- [MVC Design pattern](https://www.linkedin.com/feed/update/urn:li:activity:7094301176866779136/)
 - [5 steps to find and filter skills and job roles](https://www.linkedin.com/posts/syed-muhammad-ibtisam_5-steps-for-finding-the-right-skills-and-activity-7092051338452230144-yuZZ?utm_source=share&utm_medium=member_desktop)
 - [Backend Developer Roles and Responsibilities](https://www.linkedin.com/posts/syed-muhammad-ibtisam_linkedin-backenddevelopment-codingjourney-activity-7088472751119712256-_Zh-?utm_source=share&utm_medium=member_desktop)
 - [Backend development journey after graduating in BSCS](https://www.linkedin.com/posts/syed-muhammad-ibtisam_backenddevelopment-bscsalumni-fastpakistan-activity-7087053429990187008-gzwr?utm_source=share&utm_medium=member_desktop)
