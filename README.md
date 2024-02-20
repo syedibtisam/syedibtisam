@@ -1,13 +1,15 @@
-# Hi there👋, It's Ibtisam, started to improve my Programming skills.
+# Hi there👋, It's Syed.
+As a Software Developer with a keen focus on backend development, I bring a wealth of professional experience in API development utilizing Node.js and Express.js, following the latest best practices and industry trends. My technical skills spans a diverse range of programming languages, including C++, Java, Python, Golang, and JavaScript, allowing me to adapt and contribute across different aspects of software development effectively.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+With solid foundation in back-end technologies, My expertise extends to data modelling in SQL and NoSQL databases, including Neo4j, MongoDB, and MySQL.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+Cloud computing is another area of my expertise, having fundamental knowledge in both Azure and AWS. However, my specialization lies in Azure, for which I have obtained the Azure Fundamentals Certification. This knowledge enables me to leverage cloud services and solutions.
+
+Beyond my technical skills, I am recognized for my strong soft skills, including effective communication, teamwork, time management, and leadership. My proactive participation in projects has not only honed my technical skills but also my problem-solving, critical thinking, and collaborative abilities.
+
+I am on a path towards becoming a Software Architect, actively expanding my understanding of DevOps practices, including CI/CD pipelines and containerization with Docker and Kubernetes. This journey reflects my commitment to continuous learning and my ambition to contribute to the creation of innovative, efficient, and secure software solutions.
+
+Let's connect! I am always open to discussing new technologies, project collaborations, or sharing insights on the evolving landscape of software development.
 
 ## 📄 My LinkedIn Posts
 - [MVC Design pattern](https://www.linkedin.com/feed/update/urn:li:activity:7094301176866779136/)
