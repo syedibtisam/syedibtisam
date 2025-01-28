@@ -3,7 +3,7 @@ As a Software Developer with a keen focus on backend development, I bring a weal
 
 With solid foundation in back-end technologies, My expertise extends to data modelling in SQL and NoSQL databases, including Neo4j, MongoDB, and MySQL.
 
-Cloud computing is another area of my expertise, having fundamental knowledge in both Azure and AWS. However, my specialization lies in Azure, for which I have obtained the Azure Fundamentals Certification. This knowledge enables me to leverage cloud services and solutions.
+Cloud computing is another area of my expertise, having fundamental knowledge in both Azure and AWS.
 
 Beyond my technical skills, I am recognized for my strong soft skills, including effective communication, teamwork, time management, and leadership. My proactive participation in projects has not only honed my technical skills but also my problem-solving, critical thinking, and collaborative abilities.
 
