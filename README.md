@@ -5,7 +5,7 @@
 
 - **Years of Experience:** 1 year in the software industry
 - **Key Technologies:** JavaScript, Node.js, Express.js, AWS
-- **Currently Working with:** Accutax Advisors, based in Luton, UK where I am building website for the company using Next.js and Node.js. Check it out [here](https://www.accutaxadvisors.co.uk/).
+- **Currently Working with:** Accutax Advisors, based in Luton, UK, where I am building website for the company using Next.js and Node.js. Check it out [here](https://www.accutaxadvisors.co.uk/).
 - **Currently Learning:** Building AI agents from scratch
 
 - 📫 How to reach me **m.ibtisam.syed@gmail.com**
