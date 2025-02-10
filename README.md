@@ -1,19 +1,27 @@
-# Hi there👋, It's Syed.
-As a Software Developer with a keen focus on backend development, I bring a wealth of professional experience in API development utilizing Node.js and Express.js, following the latest best practices and industry trends. My technical skills spans a diverse range of programming languages, including C++, Java, Python, Golang, and JavaScript, allowing me to adapt and contribute across different aspects of software development effectively.
+<h1>Hi, I'm Syed</h1>
+<h3>Software Engineer</h3>
+<p>Experience buidling API's using Node.js and Express.js</p>
+🏆 Highlights
 
-With solid foundation in back-end technologies, My expertise extends to data modelling in SQL and NoSQL databases, including Neo4j, MongoDB, and MySQL.
+- **Years of Experience:** 1 year in the software industry
+- **Key Technologies:** JavaScript, Node.js, Express.js, AWS
+- **Currently Working with:** Accutax Advisors, based in Luton, UK where I am building website for the company using Next.js and Node.js. Check it out [here](https://www.accutaxadvisors.co.uk/).
+- **Currently Learning:** Building AI agents from scratch
 
-Cloud computing is another area of my expertise, having fundamental knowledge in both Azure and AWS.
+- 📫 How to reach me **m.ibtisam.syed@gmail.com**
 
-Beyond my technical skills, I am recognized for my strong soft skills, including effective communication, teamwork, time management, and leadership. My proactive participation in projects has not only honed my technical skills but also my problem-solving, critical thinking, and collaborative abilities.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/syedmuhammad-ibtisam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedmuhammad-ibtisam" height="30" width="40" /></a>
+</p>
 
-I am on a path towards becoming a Software Architect, actively expanding my understanding of DevOps practices, including CI/CD pipelines and containerization with Docker and Kubernetes. This journey reflects my commitment to continuous learning and my ambition to contribute to the creation of innovative, efficient, and secure software solutions.
-
-Let's connect! I am always open to discussing new technologies, project collaborations, or sharing insights on the evolving landscape of software development.
-
-## 📄 My LinkedIn Posts
-- [MVC Design pattern](https://www.linkedin.com/feed/update/urn:li:activity:7094301176866779136/)
-- [5 steps to find and filter skills and job roles](https://www.linkedin.com/posts/syed-muhammad-ibtisam_5-steps-for-finding-the-right-skills-and-activity-7092051338452230144-yuZZ?utm_source=share&utm_medium=member_desktop)
-- [Backend Developer Roles and Responsibilities](https://www.linkedin.com/posts/syed-muhammad-ibtisam_linkedin-backenddevelopment-codingjourney-activity-7088472751119712256-_Zh-?utm_source=share&utm_medium=member_desktop)
-- [Backend development journey after graduating in BSCS](https://www.linkedin.com/posts/syed-muhammad-ibtisam_backenddevelopment-bscsalumni-fastpakistan-activity-7087053429990187008-gzwr?utm_source=share&utm_medium=member_desktop)
-- [Scalability using Kubernetes, Cloud Native Islamabad](https://www.linkedin.com/posts/syed-muhammad-ibtisam_developer-kubernetes-cloud-activity-7033310648499380224-049h?utm_source=share&utm_medium=member_desktop)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  </p>
